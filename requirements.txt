@@ -1,3 +1,6 @@
 Flask
-requests
 gunicorn
+pandas
+ccxt
+requests
+matplotlib
